@@ -13,4 +13,5 @@ From UX/UI design to production.
 
 **How to reach me 💬**
 - [Apparence.io website](https://en.apparence.io)
+- [My website](https://dimitridessus.fr)
 - [Twitter](https://twitter.com/iPhoneRetro)

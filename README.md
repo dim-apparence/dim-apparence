@@ -1,16 +1,16 @@
-### Hi there 👋
+<a href="https://en.apparence.io"><img src="https://i.ibb.co/vL4zjvF/logoapp.png" alt="Apparence.io logo"></a>
 
-<!--
-**dim-apparence/dim-apparence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apparence studio is a team where we constantly learn new things. We prefer quality over quantity. <br>
+From UX/UI design to production.
+<br>
 
-Here are some ideas to get you started:
+**We 💙 :** 
+- ✅ TDD
+- 👨‍💻 👩‍💻 Pair programming 
+- 🎯 Good code
+- 💙 Flutter
+- 🚀 Spring, Kotlin, Rust, Angular...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How to reach me 💬**
+- [Apparence.io website](https://en.apparence.io)
+- [Twitter](https://twitter.com/iPhoneRetro)
